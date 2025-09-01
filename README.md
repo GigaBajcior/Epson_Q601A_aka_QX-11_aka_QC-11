@@ -5,5 +5,5 @@ Epson Q601A archive
 
 
 
-# Other archives:
+# Other archive sites:
 https://github.com/pradavic-1972/epson-qx11-research
